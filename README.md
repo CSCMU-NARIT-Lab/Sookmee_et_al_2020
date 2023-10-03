@@ -5,7 +5,8 @@ Software Version
 Weka 3.8.4 
 
 Requirement: pip install matplotlip
-# Data_preprocessing.py ใช้ในการเตรียมข้อมูลก่อนจะนำไปแบ่งเป็น training dataset และ test dataset
+
+Data_preprocessing.py ใช้ในการเตรียมข้อมูลก่อนจะนำไปแบ่งเป็น training dataset และ test dataset
 
 Model ที่ถูก train แล้ว ถูกจัดเก็บอยู่ใน folder model
 
