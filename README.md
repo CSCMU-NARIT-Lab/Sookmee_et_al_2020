@@ -16,7 +16,7 @@ Source test file => model/test_40.arff สามารถใช้ .arff เพ�
 globular cluster candidates by all three models as highly
 probable globular cluster candidates."
 
-หากนำ Code หรือ ข้อมูลไปใช้ กรุณาอ้างอิง paper 
+หากนำ Code หรือ ข้อมูลไปใช้ กรุณาอ้างอิง paper :  
 P. Sookmee, C. Suwannajak, P. Techa-Angkoon, B. Panyangam, and
 N. Tanakul, “Globular Cluster Classification in Galaxy M81 using
 Machine Learning Techniques,” Proceedings of The 17th
